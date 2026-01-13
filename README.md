@@ -1,5 +1,5 @@
 # Sweve-Code
-Código de programação baseada em comandos para FIRST ROBOTICS COMPETITION (FRC).  
+Código de locomoção baseada em comandos para FIRST ROBOTICS COMPETITION (FRC).  
 
 :point_right: Inclui locomoção teleoperada de Swerve-Drive.  
 :point_right: Inclui locomoção autonôma de Swerve-Drive.  
